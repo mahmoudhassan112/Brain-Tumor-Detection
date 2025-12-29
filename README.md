@@ -31,5 +31,27 @@ This project aims to automate tumor detection using convolutional neural network
 - OpenCV
 - Matplotlib
 
+## Future Work
+
+- **Model Optimization:**  
+  Apply hyperparameter tuning, pruning, and quantization to improve inference speed and reduce model size.
+  
+- **Brain Tumor Object Detection:**
+  Extend the current classification approach to localize tumors within MRI scans using object detection models such as **YOLO**, **Faster R-CNN**, or **SSD**.
+
+- **Tumor Segmentation:**  
+  Perform pixel-wise tumor segmentation using architectures like **U-Net** or **Mask R-CNN** to precisely outline tumor boundaries.
+
+- **Explainable AI (XAI):**  
+  Integrate **Grad-CAM** or **Saliency Maps** to visualize important regions influencing model predictions.
+
+- **3D MRI Analysis:**  
+  Extend the model to process **3D MRI volumes** using 3D CNNs for improved spatial understanding.
+
+- **Deployment:**  
+  Deploy the model as a **web application** using **Flask/FastAPI** or as a **cloud-based inference service**.
+
+- **Clinical Validation:**  
+  Evaluate the model on multi-institutional datasets to improve robustness and real-world applicability.
 
 
