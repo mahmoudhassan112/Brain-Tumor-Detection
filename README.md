@@ -15,6 +15,7 @@ This project aims to automate tumor detection using convolutional neural network
 
 - MRI image multi-classification
 - CNN-based deep learning model
+- MLP,SVM and LR Alogrithms based machine learning models
 - Training and evaluation using TensorFlow/Keras
 - Performance metrics computed with scikit-learn
 - Clean, modular, and reproducible project structure
